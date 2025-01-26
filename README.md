@@ -2,8 +2,8 @@
 
 Browser Useは、AIエージェントがウェブブラウザを自動で操作するためのPythonライブラリです。
 
-公式サイト：https://browser-use.com/
-リポジトリ：https://github.com/browser-use/browser-use
+- 公式サイト：https://browser-use.com/
+- リポジトリ：https://github.com/browser-use/browser-use
 
 ## Getting Started
 
